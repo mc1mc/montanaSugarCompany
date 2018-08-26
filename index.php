@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<!--Author: Met Afework
-	Date: 8/25/18
-	File:	  TheSite.html
-	Purpose:  HTML Practice
+<!--Author: Mason Coolican
+	Date:     8/26/18
+	File:	  index.php
+	Purpose:  File & Database Processing Project 1
 -->
 
 <html>
@@ -17,16 +17,11 @@
                 <form action="about.php">
                     <input type="submit" value="About"/>
                 </form>
-    <link rel ="stylesheet" type="text/css" href="montanaSugars.css">
+    <link rel ="stylesheet" type="text/css" href="main.css">
 </head>
 
 <body>
-	
-            
-            
-	<!--<h1 style="background-color:"Red;">Tony's Sugars</h1>-->
         <br>
-
         <h2>
                 Always delivering quality product, always on time
         </h2>

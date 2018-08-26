@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<link rel ="stylesheet" type="text/css" href="montanaSugars.css">
+<link rel ="stylesheet" type="text/css" href="main.css">
     <head>
 	<h1>Montana Sugars&emsp;</h1>
                 <form action="index.php">

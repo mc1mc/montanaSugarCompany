@@ -1,0 +1,114 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 26, 2018, 1:38:56 AM
+    Author     : Mason
+*/
+
+html {
+    background-image: url("sugar.png");
+    background-color: black
+}
+a {
+    color: white      
+}
+
+p {
+    font-family: Georgia;
+    background-color: lightgrey;
+    background-color:rgba(0, 0, 0, 0.8);
+    font-size: 24px;
+    color:goldenrod;
+    margin-left: 15%;
+    margin-right:25%;
+    width: 800px;
+}
+
+div {
+    /*background-color:darkred;*/
+    color:whitesmoke; 
+    font-family:Georgia, serif;
+}
+
+h1 {
+    font-size:60px;
+    background-color:rgba(155,0,0,0.8);
+    color: white;
+    margin-left: 25%;
+    margin-right:25%;
+    width: 50%;
+    text-align:right;
+    width:1000px
+}
+
+h2 {
+    font-family: Georgia;
+    background-color: lightgrey;
+    background-color:rgba(0, 0, 0, 0.8);
+    font-size: 24px;
+    color:goldenrod;
+    text-align:center
+}
+
+h3 {
+    margin-left: 15%;
+    margin-right:25%;
+    font-family: Georgia;
+    color: goldenrod;
+    font-size: 34px;
+    background-color:rgba(0, 0, 0, 0.8);
+    
+}
+
+button {
+    background-color:darkred;
+    height:40px;
+    font-family:Georgia, serif;
+    color: whitesmoke;
+}
+
+input {
+    /*height:60px;
+    width:200px;*/
+    border-style: ridge;
+    background-color:black;
+    color:whitesmoke;
+    font-family:Georgia, serif;
+    font-size:42px;
+    float:left;
+}
+
+form {
+    margin-left: 25%;
+    margin-right:25%;
+    width: 50%;
+}
+
+head {
+    text-align:center;
+    display: inline-block
+}
+
+table {
+    margin-left: 15%;
+    margin-right:25%;
+    width: 50%;
+    border-style:inset;
+    color:goldenrod;
+    background-color:rgba(0, 0, 0, 0.8);
+    font-family:Georgia, serif;
+    text-align:left
+}
+
+td {
+    background-color:rgba(255, 255, 255, 0.1);
+    text-align:left;
+    height:70px
+}
+
+
+
+
