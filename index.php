@@ -7,7 +7,7 @@
 
 <html>
 <head>
-	<img src="logo.jpg" alt= "Montana Holdings" style= "width:150px;height:150px;" >
+	<img src="logo.jpg" alt= "Montana Holdings" style= "width:150px;height:150px;opacity:.7;" >
 	<h1> Montana Sugars Inc</h1>
 	<h2>
 					Always delivering quality product, always on time
